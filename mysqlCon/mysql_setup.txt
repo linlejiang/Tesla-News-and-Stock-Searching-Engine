@@ -1,0 +1,12 @@
+1. On ec2 terminal: 
+sudo vi /etc/my.cnf; bind-address=0.0.0.0
+
+2. log into mysql
+CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'mypass'; 
+CREATE USER 'myuser'@'%' IDENTIFIED BY 'mypass';
+GRANT ALL ON database_name.* TO 'myuser'@'localhost';
+GRANT ALL ON database_name.* TO 'myuser'@'%';
+flush privileges;
+
+3. log out of mysql and restart mysql server
+
