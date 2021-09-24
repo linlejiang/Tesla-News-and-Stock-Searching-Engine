@@ -2,7 +2,7 @@
 
 A responsive web interface for Tesla News and Stock searching engine that enables user queries to the two databases.
 
-![Architecture Diagram](https://github.com/linlejiang/Tesla-News-and-Stock-Searching-Engine/Architecture_Diagram.png)
+![Architecture Diagram](https://github.com/linlejiang/Tesla-News-and-Stock-Searching-Engine/blob/master/Architecture_Diagram.png)
 
 ## Build Setup
 
