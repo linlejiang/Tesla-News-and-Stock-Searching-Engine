@@ -1,10 +1,12 @@
-# teslaproject
+# Tesla News and Stock Searching Engine
 
-> Tesla Articles and Stock
+A responsive web interface for Tesla News and Stock searching engine that enables user queries to the two databases.
 
-# cd to the dsci551-vue folder to perform the rest codes
+![Architecture Diagram](https://github.com/linlejiang/Tesla-News-and-Stock-Searching-Engine/Architecture_Diagram.png)
 
 ## Build Setup
+
+cd to the dsci551-vue folder to perform the rest codes
 
 ``` bash
 # install dependencies
